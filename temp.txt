@@ -7,6 +7,6 @@
 # Section to be modified at remote end !!
 {
     Updated by remote !
-    Testing merge updated conflict generation ! Updated the line !
+    Testing xxxx merge updated conflict generation ! Updated the line !
     and resolution !
 }
