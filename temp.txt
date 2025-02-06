@@ -6,6 +6,10 @@
 
 # Section to be modified at remote end !!
 {
+<<<<<<< Updated upstream
     Updated by remote !
+=======
+    Testing merge updated conflict generation ! Updated the line !
+>>>>>>> Stashed changes
     and resolution !
 }
