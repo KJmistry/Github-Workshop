@@ -1,1 +1,11 @@
+# Added section from local repo !!
+{
+    Testing merge conflict generation
+    and resolution !
+}
 
+# Section to be modified at remote end !!
+{
+    Testing merge conflict generation
+    and resolution !
+}
