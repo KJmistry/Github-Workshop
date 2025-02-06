@@ -6,6 +6,6 @@
 
 # Section to be modified at remote end !!
 {
-    Testing merge conflict generation
+    Updated by remote !
     and resolution !
 }
