@@ -60,3 +60,4 @@ jobs:
           with:
             # Name of the artifact to download. If unspecified, all artifacts for the run are downloaded.
             name: test 
+            path: ${{github.workspace}}
