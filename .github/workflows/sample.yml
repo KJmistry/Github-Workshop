@@ -56,8 +56,8 @@ jobs:
             echo test, and deploy your project.
 
         - name: Download a Build Artifact
-          uses: actions/download-artifact@v4.1.8
+          uses: actions/upload-artifact@v4.6.0
           with:
             # Name of the artifact to download. If unspecified, all artifacts for the run are downloaded.
-            name: test 
+            name: Build-Artifacts 
             path: ${{github.workspace}}
